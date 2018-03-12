@@ -1,7 +1,7 @@
 MonkeyRelease
 ===
 
-*Gradle* Android打包插件
+*Gradle* Android打包插件,当前版本适用于 `gradle tools 3.0` 之后的版本,之前版本请使用 `monkey-release:1.0.2`
 
 功能如下：
 
